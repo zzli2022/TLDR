@@ -1,0 +1,5 @@
+{
+  "model_name": "/path/to/your/huggingface_model/Qwen2.5-7B-Instruct/",
+  "token": 1120.943359375,
+  "acc": 0.2890625
+}

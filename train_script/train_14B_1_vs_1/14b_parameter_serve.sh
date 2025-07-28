@@ -1,0 +1,1 @@
+nohup trl vllm-serve --model /path/to/your/huggingface_model/DeepSeek-R1-Distill-Qwen-14B --tensor_parallel_size 4 --gpu-memory-utilization 0.8 --data-parallel-size 2  --port 30008 --max-model-len 8192 > vllm_log/serve_log_${currentTime}.txt 2>&1 &

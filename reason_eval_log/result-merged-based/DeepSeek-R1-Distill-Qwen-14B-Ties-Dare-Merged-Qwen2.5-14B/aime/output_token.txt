@@ -1,0 +1,5 @@
+Total completion tokens: 1379456
+Average completion tokens: 5747.733333333334
+Total responses: 240
+Correct responses: 61
+Accuracy: 0.2542

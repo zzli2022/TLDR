@@ -1,0 +1,5 @@
+{
+  "model_name": "/path/to/your/huggingface_model/DeepSeek-R1-Distill-Qwen-7B/",
+  "token": 7379.60546875,
+  "acc": 0.755859375
+}

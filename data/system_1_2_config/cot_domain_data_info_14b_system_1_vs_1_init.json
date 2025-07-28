@@ -1,0 +1,17 @@
+[
+    {
+        "data_path": "/path/to/your_data_repo/data_repo/14b_data/gsm8k_14b_shortcot_ds.jsonl",
+        "cot_domain_name": "short",
+        "cot_domain_prob": 0.5
+    },
+    {
+        "data_path": "/path/to/your_data_repo/data_repo/14b_data/s1_14b_longcot_outputs_ds.jsonl",
+        "cot_domain_name": "long",
+        "cot_domain_prob": 0.5
+    },
+    {
+        "data_path": "/path/to/your_data_repo/data_repo/eval_set/aime83_23_eval_set_data.jsonl",
+        "cot_domain_name": "eval",
+        "eval_number": 919
+    }
+]

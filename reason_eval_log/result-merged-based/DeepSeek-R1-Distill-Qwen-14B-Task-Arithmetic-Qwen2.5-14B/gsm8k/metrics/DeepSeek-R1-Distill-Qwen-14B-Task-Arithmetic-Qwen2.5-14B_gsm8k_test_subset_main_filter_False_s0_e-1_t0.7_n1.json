@@ -1,0 +1,9 @@
+{
+    "completion_tokens": 324853,
+    "prompt_tokens": 143812,
+    "avg_completion_tokens": 246.287,
+    "avg_prompt_tokens": 109.031,
+    "accuracy": {
+        "temp=0.7": 0.865
+    }
+}
